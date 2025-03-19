@@ -9,3 +9,5 @@ Key Highlights:
 - Filtered unreliable data and calculated company-specific energy states, identifying the most sustainable and financially viable investments.
 
 Our work crafted in just 48 hours showcases the potential of quantum-inspired techniques in responsible investing, bridging the gap between quantum computing and sustainable finance. 
+
+[Winning Presentation](https://youtu.be/zAH4hWonlX0?si=QVc8GS-hjxrklfI4)
